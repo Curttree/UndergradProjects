@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1422654981 source:c:\users\curtis\documents\cisc320\assign1\src\insultgenerator_0cpt.cpp
+	"insultgenerator_0cpt.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<algorithm>
+	<string>
+
+1422655356 c:\users\curtis\documents\cisc320\assign1\include\insultgenerator_0cpt.h
+	<string>
+	<vector>
+
+1422653298 source:c:\users\curtis\documents\cisc320\assign1\src\testinsultgenerator.cpp
+	<iostream>
+	<string>
+	<vector>
+	"insultgenerator_0cpt.h"
+
+1422654981 source:c:\users\curtis\documents\cisc320\insultgenerator\src\insultgenerator_0cpt.cpp
+	"insultgenerator_0cpt.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<algorithm>
+	<string>
+
+1422655356 c:\users\curtis\documents\cisc320\insultgenerator\include\insultgenerator_0cpt.h
+	<string>
+	<vector>
+
+1422653298 source:c:\users\curtis\documents\cisc320\insultgenerator\src\testinsultgenerator.cpp
+	<iostream>
+	<string>
+	<vector>
+	"insultgenerator_0cpt.h"
+
