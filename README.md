@@ -1,5 +1,5 @@
-# Portfolio
-Various Smaller Projects
+# Undergraduate Projects
+Various Smaller Projects completed during my undergraduate degree at Queen's University.
 
 This repository compiles samplings of previous works. Hobby projects will be added over time as the job hunt continues.
 
